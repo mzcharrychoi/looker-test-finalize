@@ -2,6 +2,7 @@ connection: "20210910harry"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/dashboard/**/*.dashboard"
 
 datagroup: harry_looker_test_default_datagroup {
   sql_trigger: SELECT MAX(id) FROM etl_log;;
