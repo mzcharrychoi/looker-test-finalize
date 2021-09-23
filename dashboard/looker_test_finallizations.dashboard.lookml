@@ -1,5 +1,5 @@
-- dashboard: looker_train
-  title: looker_train
+- dashboard: 0923_harry_test
+  title: 0923_harry_test
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
